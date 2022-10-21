@@ -1,0 +1,8 @@
+TIL
+
+Customvision - Mask or withoutMask detection
+Numpy(fundamental) array, data structure
+
++++
+C - Bubble sort
+Markdown(github - README)
