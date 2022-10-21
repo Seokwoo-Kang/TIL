@@ -1,0 +1,61 @@
+
+<웹 크롤링(Web crawling)>
+	1. 패키지 종류 
+	-BeautifulSoup(파이썬 패키지)
+		ex) BS4		#버전4
+	-Selenium(웹 브라우저의 일종으로 자동화 툴을 붙여놈) 
+	
+	2.
+	BS4 code
+	크롤링 : 원하는 부분의 태그명과 클래스명을 꼭 확인해야함
+
+	Database
+	Oracle, mySQL, microsoft SQL Server, PostgreSQL
+            ERD: 전체 데이터베이스 구조(엔터디 관계 다이어그램)
+
+	인덱스(책의 색인, 목차 정도)
+	ex) customerID 1번을 찾기위해 우선 인덱스에서 찾음
+
+	뷰(테이블은 하난데 보여야할 정보가 여러개일때)
+	목적1 - 여러사람이 다른 정보를 볼수있게함
+	목적2 - 한꺼번에 여러테이블의 정보를 모아서 볼수있음(JoinQuery)
+
+<클라우드 데이터베이스 관계>
+	1. Azure 데이터 서비스
+	msSQL, 오픈소스데이터베이스(MySQL, MariaDB, PostgreSQL)
+	오픈소스데이터베이스를 클라우드에 연결해줌
+
+<SQL>
+관계형 데이터베이스와 함께 사용할 수 있는 표준언어
+SQL표준은 ANSI,ISO에 의해 유지관리
+
+1.SQL문 유형
+-DML
+-DDL
+-DCL
+
+2.Query 종류
+SELECT, ORDER BY(정렬기준),
+
+
+MySQL Workbench이용 애져 연결
+샘플데이터 이용 데이터베이스 구축
+
+.rand 와 .randn 차이
+https://nittaku.tistory.com/443
+
+flask 생성,실습
+
+msql
+
+
+<개발자도구 사용 팁>
+마우스 우클릭, 마우스 드래그 안될때
+F12 설정- Debugger - Disable JavaScript
+
+웹브라우저 부분적인 문제를 찾을때
+네트워크 문제를 찾을때 최적화를 개선할때
+
+++++++++++++++++++++++++++++++++++
+githubSourcetree MAS clone test1 O
+Crawling_exam1 ㅁㅁㅁ
