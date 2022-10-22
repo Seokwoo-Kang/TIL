@@ -1,0 +1,45 @@
+<Automate the Boring Stuff with Python - Practical Programming for Total Beginners>
+~10장 파일정리까지
+
+<Terminal 단축키, 명령어>
+https://lovemission.tistory.com/entry/Terminal-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%AA%85%EB%A0%B9%EC%96%B4
+
+1. 
+Test 폴더내 A_tabbed_Command_Prompt_interface 폴더로 이동하기 
+	위해 TAB 자동완성 기능 테스트(10/22)
+
+-실습 결과
+C드라이브로 가기위해 
+로트 폴더로 이동 cd\ 또는 하위폴더로 이동 cd.. 
+목록확인 dir을 사용하여 폴더들 확인
+cd test 시도 성공 폴더명 대소문자 구분은 없음을 확인
+A_tabbed_Com~폴더로 이동하기 위해 a_tabb까지 작성하고 TAB기능사용 
+안먹힘
+cmd \f: on을 통해 자동이름기능 활성화
+a_tabb에서 TAB도 안먹히고 Ctrl+Shift+D도 실패
+regedit에서 자동완성기능 영구 사용 설정
+이미 9로 설정되어 있었다
+기능 사용방법이 틀린걸 확인
+검색을 통해 더 정확한 방법확인
+다시 루트폴더로 이동후 cd t+TAB+TAB하여 test폴더로 이동
+test폴더내 a_tabb~폴더명 자동완성 기능 실패
+확인해보니... test-cmd-a_tabb의 경로였다
+>>결과는 이미지
+
+++++추가
+현재 세션에 대해 자동 완성기능을 활성화하고,
+Ctrl+Shift+D  폴더 이름만 자동완성
+Ctrl+Shift+F  파일 이름만 자동완성
+
+
+
+
+
+	
+
+
+
+
+
+
+
